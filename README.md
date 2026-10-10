@@ -1,5 +1,7 @@
 Brazilian E-Commerce Analysis (Olist)
 
+* *Data Source:* The raw dataset used for this project can be downloaded directly from the official [Kaggle Brazilian E-Commerce Dataset (Olist)](https://kaggle.com).
+*
 End-to-end analysis of the Olist Brazilian e-commerce marketplace using Python (pandas), MySQL and Power BI. The project looks at revenue growth, delivery performance, customer satisfaction, payment behaviour and seller quality.
 
 Project Overview
